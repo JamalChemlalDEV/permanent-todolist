@@ -9,10 +9,10 @@ A simple web application that allows users to create, edit, and delete tasks in 
 - Responsive design with a clean and minimal user interface.
 
 ## Technologies Used
-**Backend**: Node.js, Express
-**Frontend**: HTML, CSS, EJS (No frontend frameworks used)
-**Database**: PostgreSQL
-**Templating Engine**: EJS
+- **Backend**: Node.js, Express
+- **Frontend**: HTML, CSS, EJS (No frontend frameworks used)
+- **Database**: PostgreSQL
+- **Templating Engine**: EJS
 
 ## Setup Instructions
 ### 1. Clone the repository
